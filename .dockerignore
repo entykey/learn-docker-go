@@ -1,0 +1,6 @@
+# Exclude the local Go build cache and other unneeded files
+/go
+*.log
+*.tmp
+.idea
+.vscode
