@@ -120,6 +120,7 @@ docker run -d -p 8080:8080 learn-docker-go
 ```bash
 Hello, this is Go Gin version x.x.x
 ```
+![go-app-running](go-app-running.png)
 
 
 #### Result: app not found on browser when visiting "http://localhost:8080"
