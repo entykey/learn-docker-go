@@ -53,6 +53,7 @@ Visit http://localhost:8080 in your browser. You should see:
 ```sh
 Hello, this is Go Gin version x.x.x
 ```
+![go-app-running](go-app-running.png)
 
 ## Step 4: Write a Dockerfile
 #### Create a file named Dockerfile in the learn-docker-go folder with the following content:
@@ -120,7 +121,6 @@ docker run -d -p 8080:8080 learn-docker-go
 ```bash
 Hello, this is Go Gin version x.x.x
 ```
-![go-app-running](go-app-running.png)
 
 
 #### Result: app not found on browser when visiting "http://localhost:8080"
